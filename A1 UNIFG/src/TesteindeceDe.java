@@ -6,6 +6,8 @@ public class TesteindeceDe {
         vetor.adiciona("joão");
         vetor.adiciona("maria");
         vetor.adiciona("fred");
-        
+        vetor.adiciona("joão");
+
+        vetor.indeceDe("joão");   
     }
 }

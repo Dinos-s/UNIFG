@@ -1,0 +1,97 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Testeremover",
+            "request": "launch",
+            "mainClass": "Testeremover",
+            "projectName": "A1 UNIFG"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ttx",
+            "request": "launch",
+            "mainClass": "ttx",
+            "projectName": "A1 UNIFG"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Aluno<A1 UNIFG>",
+            "request": "launch",
+            "mainClass": "Aluno",
+            "projectName": "A1 UNIFG"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Arraylist<A1 UNIFG>",
+            "request": "launch",
+            "mainClass": "Arraylist",
+            "projectName": "A1 UNIFG"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Testeadiciona<A1 UNIFG>",
+            "request": "launch",
+            "mainClass": "Testeadiciona",
+            "projectName": "A1 UNIFG"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TesteindeceDe<A1 UNIFG>",
+            "request": "launch",
+            "mainClass": "TesteindeceDe",
+            "projectName": "A1 UNIFG"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Testelimpa<A1 UNIFG>",
+            "request": "launch",
+            "mainClass": "Testelimpa",
+            "projectName": "A1 UNIFG"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Testermover<A1 UNIFG>",
+            "request": "launch",
+            "mainClass": "Testermover",
+            "projectName": "A1 UNIFG"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TesteultimoIndece<A1 UNIFG>",
+            "request": "launch",
+            "mainClass": "TesteultimoIndece",
+            "projectName": "A1 UNIFG"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<A1 UNIFG>",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "A1 UNIFG"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-testearry<A1 UNIFG>",
+            "request": "launch",
+            "mainClass": "testearry",
+            "projectName": "A1 UNIFG"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RemovePosicao",
+            "request": "launch",
+            "mainClass": "br.edu.unifg.ed.RemovePosicao"
+        }
+    ]
+}

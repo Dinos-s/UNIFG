@@ -17,9 +17,9 @@ public class Arraylist {
             System.out.println("Existe");
         }
 
-        int pos = lista.indexOf("b");
+        int pos = lista.lastIndexOf("b");
         if (pos > -1) {
-            System.out.println("Exxiste; index of " + pos);
+            System.out.println("Existe; index of " + pos);
         }else{
             System.out.println("inexixtente " + pos);
         }
@@ -27,6 +27,7 @@ public class Arraylist {
         System.out.println("na posição " + lista.get(2)); 
 
         lista.remove("b");
+        System.out.println(lista);
         lista.remove(0);//posição
         System.out.println(lista);
 
@@ -34,7 +35,7 @@ public class Arraylist {
 
         System.out.println(lista);
     lista.clone();
-
+    
               
     }
 }

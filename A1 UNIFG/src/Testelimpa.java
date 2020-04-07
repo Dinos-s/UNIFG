@@ -12,10 +12,7 @@ public class Testelimpa {
         
         System.out.println(vetor);
         
-        
         vetor.limpa();
-        System.out.println(vetor);
-        
-        
+        System.out.println(vetor); 
     }
 }
